@@ -1,8 +1,13 @@
-{"embeddings": [
-  {
-    "tensorName": "Product Embedding", 
-    "tensorShape": [12155, 200], 
-    "tensorPath": "https://raw.githubusercontent.com/ammarinjtk/Product-Embedding/master/tensors.tsv", 
-    "metadataPath": "https://raw.githubusercontent.com/ammarinjtk/Product-Embedding/master/labels.txt"}
-]
+{
+  "embeddings": [
+    {
+      "tensorName": "Product Embedding",
+      "tensorShape": [
+        12155,
+        200
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ammarinjtk/Product-Embedding/master/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ammarinjtk/Product-Embedding/master/labels.txt"
+    }
+  ]
 }
