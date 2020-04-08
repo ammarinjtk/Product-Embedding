@@ -3,6 +3,6 @@
     "tensorName": "Product Embedding", 
     "tensorShape": [12155, 200], 
     "tensorPath": "https://raw.githubusercontent.com/ammarinjtk/Product-Embedding/master/tensors.tsv", 
-    "metadatePath": "https://raw.githubusercontent.com/ammarinjtk/Product-Embedding/master/labels.txt"}
+    "metadataPath": "https://raw.githubusercontent.com/ammarinjtk/Product-Embedding/master/labels.txt"}
 ]
 }
